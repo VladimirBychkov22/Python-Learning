@@ -1,8 +1,7 @@
-#sk-NxyHHejYAb9f0dVS12qZbHe8LitQZyjb - мой личный API
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-NxyHHejYAb9f0dVS12qZbHe8LitQZyjb",
+    api_key="YOUR API KEY",
     base_url="https://api.proxyapi.ru/openai/v1",
 )
 
